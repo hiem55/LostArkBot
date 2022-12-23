@@ -4,6 +4,9 @@ Simple Lost Ark Bot that can complete the first stage of chaos dungeon, part of 
 
 Repairing equipment and randomized clicking included.
 
+Uses image recognition to find portal location.
+
+
 # Tools Used
 
 Pyautogui, Python, Numpy
